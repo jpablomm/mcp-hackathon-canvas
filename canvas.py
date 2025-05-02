@@ -1119,7 +1119,7 @@ async def get_course_assignments(course_id, bucket: str = None):
 
     try:
         # Build URL with optional bucket parameter
-        url = f"https://canvas.asu.edu/api/v1/courses/{course_id}/assignments"
+        url = f"https://canvas.instructure.com/api/v1/courses/{course_id}/assignments"
         params = {
             "order_by": "due_at",
             "per_page": 100,  # Get max assignments per page

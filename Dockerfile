@@ -10,7 +10,7 @@ COPY . .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Set environment variables (can be overridden at runtime)
-ENV CANVAS_API_KEY=""
+ENV CANVAS_API_KEY="1072~ELaLNEQQCB9EPJMBtEzTR6GT7fENvM9Jff8BxtXX6PAkhYav7KP4HUhmK7CrZa3n"
 ENV GOOGLE_API_KEY=""
 ENV GRADESCOPE_EMAIL=""
 ENV GRADESCOPE_PASSWORD=""
