@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jpablomm-mcp-hackathon-canvas-badge.png)](https://mseep.ai/app/jpablomm-mcp-hackathon-canvas)
+
 # Canvas MCP
 
 [![smithery badge](https://smithery.ai/badge/@aryankeluskar/canvas-mcp)](https://smithery.ai/server/@aryankeluskar/canvas-mcp)
